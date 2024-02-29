@@ -1,5 +1,5 @@
 [package]
-name = "maths-fun"
+name = "maths_fun"
 version = "0.1.0"
 edition = "2021"
 
